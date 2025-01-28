@@ -1,2 +1,0 @@
-# Mypro
-First  repository
